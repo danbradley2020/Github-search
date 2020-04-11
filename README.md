@@ -11,6 +11,7 @@ Click <a href="https://candycrushpro.github.io/Github-search/">here</a> to my li
 
 ## Technologies used to make the Github-search App are;
 
+* Angular CLI
 * HTML
 * Type Script
 * Bootstrap
