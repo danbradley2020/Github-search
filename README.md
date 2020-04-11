@@ -1,4 +1,4 @@
-# GithubSearch
+# Github-Search
 
 ## Author
 * Dan Bradley Otieno
